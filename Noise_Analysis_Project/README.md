@@ -8,7 +8,7 @@ This project analyzes time-series noise data to objectively identify abnormal no
 * **Anomaly Detection**: Identified specific time frames (e.g., 02:00 - 04:00) where noise levels consistently exceeded the standard threshold (70dB+).
 
 ## Visualization Result
-![Noise Analysis Report](out_put/noise_analysis_report.png)
+![Noise Analysis Report](Noise_Analysis_Project/out put)
 
 
 ## Tech Stack
@@ -23,4 +23,5 @@ This project analyzes time-series noise data to objectively identify abnormal no
    ```bash
 
    pip install pandas matplotlib seaborn numpy
+
 
